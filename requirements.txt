@@ -1,0 +1,9 @@
+
+reflex==0.8.15a1
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
+scipy
+plotly
